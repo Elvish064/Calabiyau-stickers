@@ -338,3 +338,4 @@ Calabiyau-stickers
 ## 致谢
 
 [Twikoo-Magic](https://github.com/noionion/Twikoo-Magic) - bilibili表情包原仓库
+[卡拉彼丘BWIKI](https://wiki.biligame.com/klbq/%E8%A1%A8%E6%83%85%E5%8C%85) - 为本项目提供卡丘表情包素材
